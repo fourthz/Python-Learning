@@ -1,0 +1,14 @@
+Quiz 1 seems all correct, nice job!
+Quiz 2 seems all correct, nice job!
+Quiz 3 seems all correct, nice job!
+Quiz 4 seems all correct, nice job!
+
+The elevator conversion seems all correct and neat, nice job!
+Excersise 3.1 seems all correct and neat, nice job!
+Excersise 3.3 seems all correct and neat, nice job!
+Excersise 4.6 correctly challenged me on a non-numeric input, nice job!
+Excersise 2.2 seems all correct and neat, nice job!
+Excersise 2.3 seems all correct and neat, nice job!
+You correctly printed "hello world" and your line of text.
+
+All in all, no errors as well as very neat presentation. 147/150 (A)
