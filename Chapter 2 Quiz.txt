@@ -1,0 +1,12 @@
+Chapter 2 Quiz
+
+1. constant
+2. variable
+3. hours
+4. speed
+5. retrive, add, and put sum back
+6. parentheses
+7. 2
+8. 5.0
+9. 98
+10. Pause and read data

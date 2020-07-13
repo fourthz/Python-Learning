@@ -1,0 +1,12 @@
+Chapter 3 Quiz
+
+1. Indent the line
+2. =
+3. All three or none
+4. De-Indent
+5. Mixed tabs and spaces
+6. else
+7. Small; all done
+8. Never print
+9. 1
+10. -1

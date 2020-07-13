@@ -1,0 +1,12 @@
+Chapter 1 Quiz
+
+1. What is the next instruction?
+2. 20
+3. .py
+4. while
+5. quit()
+6. CPU
+7. sequence of instructions
+8. secondary memory
+9. the computer did not understand
+10. random steps

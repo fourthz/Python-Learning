@@ -1,0 +1,12 @@
+Chapter 4 Quiz
+
+1. def
+2. de-indent
+3. built-in function
+4. There
+5. x
+6. 10; 20
+7. print('World')
+8. Bonjour Michael
+9. 2
+10. Avoiding writing code more than once
