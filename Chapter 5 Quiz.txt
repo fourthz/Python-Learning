@@ -1,0 +1,12 @@
+Chapter 5 Quiz
+
+1. Will run forever
+2. Exits the loop
+3. Jumps to top of loop
+4. 5
+5. friend
+6. sum elements
+7. -1
+8. matches type and value
+9. while
+10. 0

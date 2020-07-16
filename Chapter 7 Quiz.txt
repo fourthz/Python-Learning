@@ -1,0 +1,13 @@
+
+Chapter 7 Quiz
+
+1. Secondary memory
+2. Connection to data
+3. Read or write
+4. input()
+5. indicates end
+6. for line in xfile:
+7. count the lines in file
+8. rstrip()
+9. try/except
+10. reads entire file
