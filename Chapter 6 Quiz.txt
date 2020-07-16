@@ -1,0 +1,13 @@
+
+Chapter 6 Quiz
+
+1. Hellothere
+2. 42
+3. print(x[8])
+4. print(x[14:17])
+5. letter
+6. 42
+7. print(greet.upper())
+8. twist()
+9. .ma
+10. strip()
