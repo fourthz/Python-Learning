@@ -1,0 +1,13 @@
+
+Chapter 8 Quiz
+
+1. Can store multiple values
+2. for / in
+3. print(friends[2])
+4. error
+5. print(len(data))
+6. list of integers
+7. 6
+8. t[2:4]
+9. append()
+10. Glenn
