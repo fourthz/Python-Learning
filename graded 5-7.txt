@@ -1,0 +1,11 @@
+Quiz 5= all correct
+Quiz 6= all correct
+Quiz 7= all correct
+5.1= correctly sums averages and counts my input and gives invalid error
+5.2= correctly sums counts and finds max/min
+6.5= correctly displays spam confidence
+7.1= correctly reads through file in all caps
+7.2= correctly finds spam confidence of files
+
+
+Overall neat, efficient, and working well.
