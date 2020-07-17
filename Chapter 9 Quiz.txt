@@ -1,0 +1,13 @@
+
+Chapter 9 Quiz
+
+1. List index is integer; dictionary index can be string
+2. Associative array
+3. Traceback error
+4. -1
+5. False
+6. Building a histogram
+7. counts[key] = counts.get(key, 0) + 1
+8. keys in dictionary
+9. values()
+10. To provide a default
