@@ -1,0 +1,13 @@
+
+Chapter 10 Quiz
+
+1. Lists are mutable and tuples are not mutable
+2. index()
+3. Two item tuple [Note: I read too quickly and got this wrong, but after checking your quiz I see that it should be "4"]
+4. A list of tuples
+5. (6, 0, 0)
+6. Creates list of tuples
+7. data.sort(reverse = True)
+8. print(days[2])
+9. items() returns list of tuples
+10. For a temporary variable
