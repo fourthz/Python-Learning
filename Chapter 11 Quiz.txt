@@ -1,0 +1,13 @@
+
+Chapter 11 Quiz
+
+1. Small programming language (You got a different question than me! My question was, "which best descibes regular expressions?")
+2. ^
+3. Match a lowercase letter or digit
+4. list of strings
+5. .
+6. + is at least one; * is zero or more
+7. one or more digits
+8. ['From: Using the:']
+9. ?
+10. stephen.marquard@uct.ac.za
