@@ -1,0 +1,13 @@
+
+Chapter 12 Quiz
+
+1. The request/response cycle
+2. A blank line
+3. import socket
+4. 80
+5. in-progress phone conversation
+6. HyperText
+7. Which application talks first
+8. Protocol, host, document
+9. GET
+10. IETF
