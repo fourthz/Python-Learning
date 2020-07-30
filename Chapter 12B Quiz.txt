@@ -1,0 +1,16 @@
+
+Chapter 12-B Quiz
+
+1. file handle
+2. mysock.recv()
+3. href = "(.+)"
+4. mysock.connect()
+5. Content-Type:
+6. That the web site allows scraping
+7. It repairs and parses HTML
+8. A list of anchor tags
+9. UTF-8
+10. 71
+11. line
+12. Byte Code
+13. decode()
